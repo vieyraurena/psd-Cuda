@@ -4,9 +4,17 @@ body {
   color: #ffffff;
 }
 
-.purple-color{
-  height: 100%;
-  background-color: #633a79;
+h1 {
+  width: 906px;
+  font-size: 42px;
+  text-align: center;
+  margin: 0 97px 63px 97px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 
 /*healpears*/
@@ -21,17 +29,9 @@ body {
   display: table;
 }
 
-h1 {
-  width: 906px;
-  font-size: 42px;
-  text-align: center;
-  margin: 0 97px 63px 97px;
-}
-
-a {
-  text-decoration: none;
-  text-transform: uppercase;
-  color: #ffffff;
+.purple-color{
+  height: 100%;
+  background-color: #633a79;
 }
 
 /*header*/
