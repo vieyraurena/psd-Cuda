@@ -1,0 +1,105 @@
+/*Globales*/
+body {
+  margin: 0;
+  color: #ffffff;
+}
+
+.purple-color{
+  height: 100%;
+  background-color: #633a79;
+}
+
+/*healpears*/
+.container {
+  width: 1100px;
+  margin: 0 auto;
+
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+h1 {
+  width: 906px;
+  font-size: 42px;
+  text-align: center;
+  margin: 0 97px 63px 97px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+/*header*/
+.header {
+  padding-top: 56px;
+}
+
+.logo {
+  width: 116px;
+  float: left;
+  padding: 57px 0 0 0;
+}
+
+.nav {
+  float: right;
+  width: 441px;
+  margin: 70px 49px 0 0;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-list li {
+  float: left;
+}
+
+.nav li + li {
+  margin-left: 40px;
+}
+
+.nav a {
+  font-size: 16px;
+}
+
+.nav a:hover {
+  color:#7c7c7c;
+}
+
+/*main-content*/
+.main-content{
+  float: left;
+  margin: 106px 0 145px 0;
+  
+}
+
+.main-content a {
+  font-size: 18px;
+  text-align: center;
+} 
+
+.button {
+  padding: 28px 76px;
+  border-radius: 2px;
+  background-color: #eb7d4b;
+  margin: 0 404px;
+}
+
+.button:hover {
+  background-color: #7c7c7c;
+} 
+
+/*green-color*/
+
+
+
+
+
+
